@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# In this script i am using 2 nested loops to work on that clock task
-
+# nested loops
 hour=0
 while (( hour<=12 )); do
     echo "Hour: $hour"
