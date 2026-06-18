@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Going to use if to check if the number is 4 and print "bad luck" or if 8 to print "good luck" or else "Best School
-
+# using if and elif and else
 count=1
 while (( count<=10 )); do
 
