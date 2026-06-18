@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# ahh, FizzBuzz... my favourite coding challenge
-
+# fizzbuzz
 count=1
 
 while (( count <= 100 )); do
