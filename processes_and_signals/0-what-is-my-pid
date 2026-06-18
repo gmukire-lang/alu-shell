@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# printing this file's pid
+echo $$

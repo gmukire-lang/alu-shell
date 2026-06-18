@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# finding the running instance of bash
+# shellcheck disable=SC2009
+ps -auxf | grep "bash"
