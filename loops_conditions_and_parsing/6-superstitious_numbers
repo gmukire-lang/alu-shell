@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Now i am using 3 ifs to check the 4th iteration, 9th iteration, 17th iteration from a loop that is iterating up to 20
-
+# using case
 count=1
 while (( count<=20 )); do
     echo "$count"
